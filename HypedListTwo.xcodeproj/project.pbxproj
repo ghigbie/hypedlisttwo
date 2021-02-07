@@ -52,6 +52,9 @@
 		DB72ED2A25CF6F6000A64F4C /* HypedListTwo */ = {
 			isa = PBXGroup;
 			children = (
+				DB72ED3E25CF70C700A64F4C /* viewmodels */,
+				DB72ED3D25CF70C000A64F4C /* models */,
+				DB72ED3C25CF70B200A64F4C /* views */,
 				DB72ED2B25CF6F6000A64F4C /* HypedListTwoApp.swift */,
 				DB72ED2D25CF6F6000A64F4C /* HypedListTabView.swift */,
 				DB72ED2F25CF6F6B00A64F4C /* Assets.xcassets */,
@@ -67,6 +70,27 @@
 				DB72ED3225CF6F6B00A64F4C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DB72ED3C25CF70B200A64F4C /* views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		DB72ED3D25CF70C000A64F4C /* models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		DB72ED3E25CF70C700A64F4C /* viewmodels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = viewmodels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
